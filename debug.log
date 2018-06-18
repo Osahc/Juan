@@ -1,0 +1,4 @@
+[0616/230247.098:ERROR:settings.cc(266)] Settings version is not 1
+[0616/235704.780:ERROR:process_reader_win.cc(83)] NtQuerySystemInformation: {Cota insuficiente} A cota de arquivo de paginação ou de memória virtual disponível é insuficiente para completar a operação especificada.  (0xc0000017)
+[0616/235707.948:ERROR:exception_snapshot_win.cc(87)] thread ID 4612 not found in process
+[0616/235707.948:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
