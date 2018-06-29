@@ -1,0 +1,76 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 1.09em;
+	font-family: 'Merriweather', serif;
+	font-weight: 900;
+	color: #FFFF00;
+	background:url(./img/fundo.jpeg) center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.tudo {
+	height: 100vh;
+	border:3px solid blue;
+}
+
+#lembranças {
+	font-size: 1.09em;
+	font-family: 'Markazi Text', serif; 
+	font-weight: 900;
+	color: #000
+}
+
+.pererão {
+	font-size: 1.09em;
+	font-family: 'Markazi Text', serif;
+	font-weight: 900;
+	color: #000
+}
+
+.segunda-lembrança {
+	font-size: 1.09em;
+	font-family: 'Markazi Text', serif;
+	font-weight: 900;
+	color: #000
+}
+
+#emoção {
+	font-size: 1.09em;
+	font-family: 'Shrikhand', cursive
+	font-weight: 900;
+	color: #DC143C
+
+}
+
+.titulo-emoçãos {
+	font-size: 2.0em;
+	font-family: 'Galada', cursive;
+	font-weight: 900;
+	color: #00FF7F
+}
+
+.primteira-emoção {
+	font-size: 1.09em;
+	font-family: 'Galada', cursive;
+	font-weight: 900;
+	color: #00FF7F
+}
+
+.segunda-emoção {
+	font-size: 1.09em;
+	font-family: 'Galada', cursive;
+	font-weight: 900;
+	color: #00FF7F
+}
+
+.terceira-emoção {
+	font-size: 1.09em;
+	font-family: 'Galada', cursive;
+	font-weight: 900;
+	color: #00FF7F
+}
+
